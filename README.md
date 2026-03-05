@@ -30,10 +30,16 @@ tested for robustness. Results validated against empirical goal rates.
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyMC](https://img.shields.io/badge/PyMC-FF6F00?style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PyMC](https://img.shields.io/badge/PyMC-FF6F00?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat)
+![Bayesian Statistics](https://img.shields.io/badge/Bayesian%20Statistics-2D6A4F?style=flat)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
