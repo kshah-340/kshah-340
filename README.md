@@ -1,16 +1,44 @@
-## Hi there 👋
+# Kiran Shah
+### Data Scientist | Soccer Analytics | Predictive Modeling
 
-<!--
-**kshah-340/kshah-340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Analytics, Georgia Tech · Former Analytics Intern, DC United (MLS)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I specialize in predictive modeling and applied machine learning, with a focus on 
+sports analytics. My background combines formal data science training at Georgia Tech 
+with hands-on experience building player valuation models in a professional MLS 
+environment. Prior to data science, I worked as an investment advisor at Merrill Lynch.
+
+I'm currently open to data scientist roles in sports analytics and beyond.
+
+---
+
+## Projects
+
+### [Bayesian Possession Value Model](https://github.com/kshah-340/bayesian-possession-value)
+A Bayesian logistic regression framework for estimating the probability that a soccer 
+possession results in a goal, using StatsBomb event data. Three prior specifications 
+tested for robustness. Results validated against empirical goal rates.
+
+🔗 [GitHub](https://github.com/kshah-340/bayesian-possession-value) · [Medium Writeup](https://medium.com/@kiran_30122/a-bayesian-approach-to-quantifying-soccer-possession-value-a7d17435bf35)
+
+---
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyMC](https://img.shields.io/badge/PyMC-FF6F00?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-shah-340ax/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kiran_30122/a-bayesian-approach-to-quantifying-soccer-possession-value-a7d17435bf35)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kiran@kdnshah.com)
