@@ -1,5 +1,5 @@
 # Kiran Shah
-### Data Scientist | Soccer Analytics | Predictive Modeling
+### Data Scientist | Sports Analytics | Predictive Modeling
 
 MS Analytics, Georgia Tech · Former Analytics Intern, DC United (MLS)
 
