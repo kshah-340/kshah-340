@@ -24,7 +24,7 @@ A Bayesian framework for estimating how individual actions contribute to possess
 
 ---
 
-### [Houston Dynamo FC Striker Recruitment Analysis](https://github.com/kshah-340/Data-Analyst-Task-Dynamo)
+### [Houston Dynamo FC Striker Recruitment Analysis](https://github.com/kshah-340/dynamo_striker_recruitment)
 
 Developed a data-driven recruitment framework integrating Wyscout and SkillCorner data to identify striker profiles that fit a desired tactical system.
 
