@@ -32,7 +32,7 @@ Developed a data-driven recruitment framework integrating Wyscout and SkillCorne
 
 ---
 
-### [NFL Offensive Information Leakage](repository link coming soon)
+### [NFL Offensive Information Leakage](https://github.com/kshah-340/nfl_offensive_information_leakage)
 
 A research project theorizing, computing, and evaluating the tradeoff between play-call predictability and play effectiveness. Inspired by concepts from financial market theory, information economics, and game theory.
 
