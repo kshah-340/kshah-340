@@ -42,6 +42,8 @@ A research project theorizing, computing, and evaluating the tradeoff between pl
 
 Built Bayesian mixed-effects performance forecasting models and interactive dashboards for speed skating competition analysis.
 
+**Skills**: Bayesian Inference, Machine Learning, Sports Analytics, Mixed-Effects Regression, Tableau Visualization, Python
+
 ---
 
 ## Technical Skills
