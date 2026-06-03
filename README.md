@@ -1,4 +1,5 @@
 # Kiran Shah
+#### kiran@kdnshah.com
 ### Data Scientist | Sports Analytics | Machine Learning | Bayesian Modeling
 
 MS Analytics, Georgia Tech · Analytics at DC United (MLS)
