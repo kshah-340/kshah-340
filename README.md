@@ -38,6 +38,8 @@ A research project theorizing, computing, and evaluating the tradeoff between pl
 
 **Skills**: Machine Learning, NFL Analytics, Logistic Regression, Model Evaluation, Feature Engineering
 
+---
+
 ### [Olympic Medal Forecasting and Interactive Dashboard](repository link coming soon)
 
 Built Bayesian mixed-effects performance forecasting models and interactive dashboards for speed skating competition analysis.
