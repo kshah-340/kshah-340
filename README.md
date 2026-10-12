@@ -82,6 +82,9 @@ Built Bayesian mixed-effects performance forecasting models and interactive dash
 
 ## Professional Experience
 
+### UF Health - Financial Analysis
+Conduct ad-hoc financial analysis specializing in pro forma auditing to identify, diagnose, and contextualize gaps between projected and actual financial performance.
+
 ### DC United - Strategy and Analytics
 
 Develop player valuation methodologies and decision-support tools for football operations.
