@@ -16,6 +16,7 @@ I have developed analytics projects for organizations including DC United, the U
 ## Featured Projects
 
 ### [Bayesian Possession Value Model](https://github.com/kshah-340/bayesian-possession-value)
+
 A Bayesian framework for estimating how individual actions contribute to possession success in soccer. Built using StatsBomb event data and hierarchical Bayesian modeling techniques.
 
 **Skills**: Bayesian Statistics, PyMC, Soccer Analytics, Feature Engineering, Data Visualization
@@ -40,11 +41,11 @@ A research project theorizing, computing, and evaluating the tradeoff between pl
 
 ---
 
-### [Olympic Medal Forecasting and Interactive Dashboard](repository link coming soon)
+### [Puck Management Valuation (Ice Hockey)](https://github.com/kshah-340/hockey_puck_management_valuation)
 
-Built Bayesian mixed-effects performance forecasting models and interactive dashboards for speed skating competition analysis.
+Possession-based hockey analytics model using play-by-play and tracking data to quantify the contextual value of puck management decisions. Player credit is assigned in two ways: VAEP-style puck progression and time-decayed discrete event attribution.
 
-**Skills**: Bayesian Inference, Machine Learning, Sports Analytics, Mixed-Effects Regression, Tableau Visualization, Python
+**Skills**: Python, Feature Engineering, Bayesian Shrinkage, Data Visualization, Possession Valuation
 
 ---
 
